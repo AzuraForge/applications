@@ -7,6 +7,6 @@ setup(
     # EN ÖNEMLİ KISIM: Paket kurulduğunda .json dosyasının da kopyalanmasını sağlar
     include_package_data=True, 
     package_data={
-        "azuraforge_apps_catalog": ["*.json"],
+        "azuraforge_applications": ["*.json"], # "azuraforge_apps_catalog" -> "azuraforge_applications"
     },
 )
