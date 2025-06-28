@@ -4,6 +4,6 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "azuraforge-applications-catalog"
+name = "azuraforge-applications"
 version = "0.1.0"
 description = "A catalog of official applications for the AzuraForge platform."
