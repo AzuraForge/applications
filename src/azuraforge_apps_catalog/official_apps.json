@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stock_predictor",
+    "name": "Hisse Senedi Fiyat Tahmini",
+    "repository": "https://github.com/AzuraForge/app-stock-predictor"
+  },
+  {
+    "id": "weather_forecaster",
+    "name": "Hava Durumu Tahmini",
+    "repository": "https://github.com/AzuraForge/app-weather-forecaster"
+  }
+]
