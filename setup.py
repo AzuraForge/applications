@@ -1,4 +1,3 @@
-# ========== DOSYA: applications/setup.py ==========
 from setuptools import setup, find_packages
 
 setup(
@@ -10,3 +9,4 @@ setup(
         "azuraforge_applications": ["*.json"], # "azuraforge_apps_catalog" -> "azuraforge_applications"
     },
 )
+
