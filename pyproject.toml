@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "azuraforge-applications"
-version = "0.1.1"
+version = "0.1.0"
 description = "A catalog of official applications for the AzuraForge platform."
 dependencies = ["python-semantic-release"]
 
