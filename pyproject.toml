@@ -1,16 +1,15 @@
 # applications/pyproject.toml
 
 [build-system]
-requires = ["setuptools>=61.0", "wheel"] # 'wheel' eklendi
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "azuraforge-applications"
-version = "0.1.0" # Bu versiyon otomatik artırılacak
+version = "0.1.0"
 description = "A catalog of official applications for the AzuraForge platform."
-dependencies = ["python-semantic-release"] # YENİ: semantic-release eklendi
+dependencies = ["python-semantic-release"]
 
-# YENİ: semantic-release yapılandırması
 [tool.semantic_release]
 branch = "main"
 version_variable = "pyproject.toml:project.version"
