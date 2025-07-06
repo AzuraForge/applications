@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: azuraforge-applications
+Version: 0.1.1
+Summary: A catalog of official applications for the AzuraForge platform.
+License-File: LICENSE
+Requires-Dist: python-semantic-release
+Dynamic: license-file

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/azuraforge_applications/__init__.py
+src/azuraforge_applications/official_apps.json
+src/azuraforge_applications.egg-info/PKG-INFO
+src/azuraforge_applications.egg-info/SOURCES.txt
+src/azuraforge_applications.egg-info/dependency_links.txt
+src/azuraforge_applications.egg-info/requires.txt
+src/azuraforge_applications.egg-info/top_level.txt
